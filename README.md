@@ -1,6 +1,19 @@
 HAVIK
 =====
 
+---
+
+**ARCHIVED/OBSOLETE**
+
+This project has been superseded by
+[Grutto](https://github.com/cjsmeele/grutto), which re-uses the
+bootloader that was developed in this project.
+
+The bootloader itself has been split off into
+[Stoomboot](https://github.com/cjsmeele/stoomboot).
+
+---
+
 NAME
 ----
 
